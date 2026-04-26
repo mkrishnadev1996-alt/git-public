@@ -1,3 +1,5 @@
 print("In main file")
 with open("file1.txt", "r") as f:
-    print(f.read())
+    data = f.read()
+data_capitalized = data.upper()
+print(data_capitalized)
