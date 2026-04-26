@@ -1,3 +1,4 @@
+print("hello how are you?")
 print("In main file")
 with open("file1.txt", "r") as f:
     data = f.read()
