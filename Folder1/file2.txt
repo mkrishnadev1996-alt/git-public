@@ -1,0 +1,2 @@
+text in folder1/file1.text
+line 2 some text
